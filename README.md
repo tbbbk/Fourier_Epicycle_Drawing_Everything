@@ -1,13 +1,12 @@
 # **Fourier Epicycle Drawing** !EVERYTHING!
 
-<img src="D:\Desktop\ellipitcal\images\example.png" alt="example" style="zoom:50%;" />
+<img src="images\example.png" alt="example" style="zoom:50%;" />
 
 This project provides an interactive visualization of Fourier series, capable of deconstructing any 2D path into a series of rotating vectors (epicycles) and then recreating the drawing.
 
 ## **Live Demo**
 
-You can try the interactive demo here:
-[**[Click to View Demo\]**](https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr6sGWTCMz2k)
+You can try the interactive demo here:[Click to View Demo](https://tbbbk.github.io/Fourier_Epicycle_Drawing_Everything/)
 
 ## **Running Locally**
 
