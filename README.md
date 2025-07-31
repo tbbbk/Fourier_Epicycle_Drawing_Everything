@@ -6,7 +6,7 @@ This project provides an interactive visualization of Fourier series, capable of
 
 ## **Live Demo**
 
-You can try the interactive demo here:[Click to View Demo](https://tbbbk.github.io/Fourier_Epicycle_Drawing_Everything/)
+You can try the interactive demo here:[Click to View Demo](https://tbbbk.github.io/Fourier_Epicycle_Drawing_Everything/main.html)
 
 ## **Running Locally**
 
